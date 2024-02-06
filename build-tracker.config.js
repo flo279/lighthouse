@@ -5,7 +5,7 @@ module.exports = {
   applicationUrl: 'https://lh-build-tracker.herokuapp.com',
   artifacts: [
     'dist/lightrider/lighthouse-lr-bundle.js',
-    'dist/extension/scripts/lighthouse-ext-bundle.js',
+    'dist/extension/scripts/lighth-ext-bundle.js',
     'dist/lighthouse-dt-bundle.js',
     'dist/gh-pages/viewer/src/bundled.js',
     'dist/gh-pages/treemap/src/bundled.js',
